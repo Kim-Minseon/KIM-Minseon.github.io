@@ -12,15 +12,16 @@ comments: false
 <b>M.S (2018 ~2020) </b> \\
 School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea \\
 <b>B.S (2013 ~2018) </b> \\
-Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea \\
+Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea \
 
 ## Work Experience
-<b>Internship (06.2019-08.2019)<\b>\\
-Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherland\\
+<b>Internship (06.2019-08.2019) <\b> \\
+Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherland \
 
 
-## Recent work
-*
+## Publish
+* Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019)
+* Adversarial Self-Supervised Contrastive Learning, arXiv (2020)
 
 ## Contact
 Email: minseonkim@kaist.ac.kr
