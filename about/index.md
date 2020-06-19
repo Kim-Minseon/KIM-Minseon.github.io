@@ -11,6 +11,8 @@ comments: false
 ## Education
 <b>M.S (2018 ~2020) </b> \\
 School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea \\
+Thesis\\
+*Differential representation of face pareidolia in human and deep neural network\\
 <b>B.S (2013 ~2018) </b> \\
 Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea 
 
