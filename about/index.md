@@ -22,8 +22,8 @@ Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherlan
 
 
 ## Publish
-* Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href=https://arxiv.org/abs/1908.08239>PDF</a> <a href=https://github.com/DeokyunKim/Progressive-Face-Super-Resolution>Code</a>
-* Adversarial Self-Supervised Contrastive Learning, arXiv (2020) <a href=https://arxiv.org/abs/2006.07589>PDF</a>
+* Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a>
+* Adversarial Self-Supervised Contrastive Learning, arXiv (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a>
 
 ## Contact
 Email: minseonkim@kaist.ac.kr
