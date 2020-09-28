@@ -8,7 +8,7 @@ comments: false
     
 <center><b>Minseon Kim</b></center> &nbsp;
 
-<img src="https://user-images.githubusercontent.com/28754348/94437134-4eb54b80-01d8-11eb-9614-19fadb467918.jpeg" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/28754348/94437134-4eb54b80-01d8-11eb-9614-19fadb467918.jpeg" width="50px" height="50px" />
 
 
 ## Education
