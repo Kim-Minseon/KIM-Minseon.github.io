@@ -6,9 +6,9 @@ date: 2020-06-16
 comments: false
 ---
     
-<center><b>Minseon Kim</b></center> \\
+<center><b>Minseon Kim</b></center> &nbsp;
 
-<html><img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn"></html>
+<html><img src="assets/img/my.jpeg" class="img-circle zoombtn animated rotateIn"></html>
 
 ## Education
 <b>Ph.D student (2020 ~ ) </b> \\
@@ -29,7 +29,7 @@ Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherlan
 * Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
 * Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a>
 
-\\
+&nbsp;&nbsp;
 * MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning, ESMRMB 2020, (Lightening Talk)
 * T1 Image Synthesis with Deep Convolutional Generative Adversarial Networks, Organization for Human Brain Mapping 2018 (only abstract)
 
