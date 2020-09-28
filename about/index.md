@@ -6,7 +6,7 @@ date: 2020-06-16
 comments: false
 ---
 
-<img src="https://user-images.githubusercontent.com/28754348/94437134-4eb54b80-01d8-11eb-9614-19fadb467918.jpeg" width="50px" height="50px" >
+<img src="https://user-images.githubusercontent.com/28754348/94438614-50800e80-01da-11eb-8905-ed4ae72d4102.png" width="50px" height="50px" >
 
 ## Education
 <b>Ph.D student (2020 ~ ) </b> \\
