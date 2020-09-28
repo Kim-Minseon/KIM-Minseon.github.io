@@ -23,8 +23,8 @@ Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherlan
 
 
 ## Publish
-* Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
-* Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a>
+* <font color="Orange"> [New Update!]</font> Minseon Kim, Jihoon Tack, Sungju Hwang, Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
+* Deokyun Kim*, Minseon Kim*, Gihyun Kwon*, Daeshik Kim, Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a>
 
 &nbsp;&nbsp;
 * MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning, ESMRMB 2020, (Lightening Talk)
