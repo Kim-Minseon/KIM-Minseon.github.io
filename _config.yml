@@ -1,10 +1,10 @@
 # Site
 title:              Minseon Kim
-bio:                'Homepage'
+bio:                'Welcome to my page!'
 description:        "Academic and personal blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/my.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -38,7 +38,7 @@ disqus_shortname:   minseonkim
   #ad-slot:
 #bing-verify:
 email:              minseonkim@kaist.ac.kr
-#twitter:            username
+twitter:            https://twitter.com/kim__minseon
 #facebook:           username
 github-url:         kim-minseon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
