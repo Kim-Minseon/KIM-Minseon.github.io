@@ -6,7 +6,9 @@ date: 2020-06-16
 comments: false
 ---
     
-<center><b>Minseon Kim</b></center>
+<center><b>Minseon Kim</b></center> \\
+
+<html><img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn"></html>
 
 ## Education
 <b>Ph.D student (2020 ~ ) </b> \\
