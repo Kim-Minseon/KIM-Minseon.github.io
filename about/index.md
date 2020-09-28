@@ -8,7 +8,7 @@ comments: false
     
 <center><b>Minseon Kim</b></center> &nbsp;
 
-<html><img src="assets/img/my.jpeg" class="img-circle zoombtn animated rotateIn"></html>
+![my](https://user-images.githubusercontent.com/28754348/94437134-4eb54b80-01d8-11eb-9614-19fadb467918.jpeg)
 
 ## Education
 <b>Ph.D student (2020 ~ ) </b> \\
