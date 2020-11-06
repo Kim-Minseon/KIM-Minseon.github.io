@@ -6,7 +6,7 @@
 				<a href="#">About</a>
 				<ul class="dl-submenu">
 					<li>
-						<img src="https://user-images.githubusercontent.com/28754348/94437134-4eb54b80-01d8-11eb-9614-19fadb467918.jpeg" alt="{{ site.title }} photo" class="author-photo">
+						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
@@ -98,6 +98,7 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
