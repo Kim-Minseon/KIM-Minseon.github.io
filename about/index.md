@@ -29,23 +29,23 @@ Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute
 <b>Internship (06.2019-08.2019) </b> \\
 Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherland
 
-# Academic Activities
-* Conference reviewer
+## Academic Activities
+<b> Conference reviewer </b> \\
 - AAAI: 2020
 - ACML: 2020
-* Mentor & TA
+<b> TA & Mentor </b> \\
 - TA, AI-Expert Program, Samsung-DS Summer, 2020
 - TA (mentor), EE209: Programming Structure for Electrical Engineering, KAIST, 2018 Spring, 2018 Fall, 2019 Spring
 - TA, EE485: Special Topics in Electronic Engineering <MyEE>, KAIST, 2018 Fall
 - TA, CS101: Introduction to Programming, KAIST, 2018 Spring
 - TA, HSS061: Introduction to Programming, KAIST, 2016 Spring
 
-# Presented Talks
+## Presented Talks
 * "MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning", ESMRMB, virtual, 2020 (Lightening Talk)
 * "Deep neural network from CNN to GAN", LUMC, Leiden, Netherland, 2019 (2 weeks)
 * "Deep neural network and AI",Cheongju national university of education, Cheongju, Korea, 2018
 
-# Awards and Honors
+## Awards and Honors
 * "Cheong Munsul Pioneer Program", Bio and Brain engineering Department, Jun. 2016
 * "KAIST Leadership Awards", KAIST, Mar. 2016
 * "Undergraduate Scholarship", Korea Student Aid Foundation, 2015-2016
