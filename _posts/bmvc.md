@@ -6,7 +6,7 @@ excerpt: "BMVC (2019)"
 tag:
 - Face super-resolution
 - Computer Vision
-comments: true
+comments: false
 ---
 
 <center><b>paper</b> </center> abstract <hr>

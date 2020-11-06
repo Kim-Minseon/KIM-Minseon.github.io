@@ -1,4 +1,11 @@
 # Site navigation links
 
-- title: Teaching Experience
-  url: /projects/
+- title: Home
+  url: /
+
+- title: Publish
+  url: /posts/
+
+- title: About
+  url: /about/
+
