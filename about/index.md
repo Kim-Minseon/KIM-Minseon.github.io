@@ -30,12 +30,13 @@ Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute
 Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherland
 
 ## Academic Activities
-<b> Conference reviewer </b> \
+<b>Conference reviewer</b>
 
 - AAAI: 2020
 - ACML: 2020
 
-<b> TA & Mentor </b> \
+<b>TA & Mentor</b>
+
 - TA, AI-Expert Program, Samsung-DS Summer, 2020
 - TA (mentor), EE209: Programming Structure for Electrical Engineering, KAIST, 2018 Spring, 2018 Fall, 2019 Spring
 - TA, EE485: Special Topics in Electronic Engineering <MyEE>, KAIST, 2018 Fall
