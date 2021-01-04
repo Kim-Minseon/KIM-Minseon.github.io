@@ -21,7 +21,6 @@ Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute
 * Minseon Kim, Jihoon Tack, Sungju Hwang, Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
 * Deokyun Kim\*, Minseon Kim\*, Gihyun Kwon\*, Daeshik Kim, Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a>
 
-&nbsp;&nbsp;
 * MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning, ESMRMB 2020, (abstract only)
 * T1 Image Synthesis with Deep Convolutional Generative Adversarial Networks, Organization for Human Brain Mapping 2018 (abstract only)
 
@@ -43,13 +42,15 @@ Radiology Department, Leiden University Medical Center (LUMC), Leiden, Netherlan
 - TA, CS101: Introduction to Programming, KAIST, 2018 Spring
 
 ## Presented Talks
-<b>Invited talk</b> Adversarial Self-Supervised Contrastive Learning
+<b>Invited talk</b> 
+"Adversarial Self-Supervised Contrastive Learning"
 - Stella Yu's Group, UC Berkeley, Virtual, Nov 2020.
 - NeurIPS Social: ML in Korea, Virtual, Dec 2020.
 - Korea Software Congress (KSC): Korea Post-NeurIPS-2020 Workshop, Virtual, Dec 2020.
 
-<b>Lightening talk</b> "MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning"
-- ESMRMB, virtual, 2020 (Lightening Talk)
+<b>Lightening talk</b> 
+"MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning"
+- ESMRMB, virtual, Sep 2020
 
 <b>General talk</b>
 - "Deep neural network from CNN to GAN", LUMC, Leiden, Netherland, 2019 (2 weeks)
