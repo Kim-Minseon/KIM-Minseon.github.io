@@ -10,12 +10,12 @@ comments: false
 
 ## Education
 <b>Ph.D student (2020 ~ ) </b> \\
-Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), (advisor: Sungju Hwang)\\
+Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea (advisor: Sung Ju Hwang)\\
 <b>M.S (2018 ~2020) </b> \\
-School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST) \\
+School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea \\
 Thesis: *<i>Differential representation of face pareidolia in human and deep neural network </i> \\
 <b>B.S (2013 ~2018) </b> \\
-Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute of Science and Technology (KAIST)
+Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
 
 ## Publish
 * Minseon Kim, Jihoon Tack, Sungju Hwang, Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
