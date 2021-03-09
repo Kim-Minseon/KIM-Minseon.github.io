@@ -30,8 +30,8 @@ disqus_shortname:   minseonkim
 
 # Social
 # if you don't have any of social below, comment the line.
-google: scholar.google.com/citations?user=ZwObZNwAAAAJ&hl=ko
-  #plus:            #username
+google:
+  plus:            scholar.google.com/citations?user=ZwObZNwAAAAJ&hl=ko
   #analytics:
   #verify:
   #ad-client:
