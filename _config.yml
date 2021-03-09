@@ -30,7 +30,7 @@ disqus_shortname:   minseonkim
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google: https://scholar.google.com/citations?user=ZwObZNwAAAAJ&hl=ko
   #plus:            #username
   #analytics:
   #verify:
