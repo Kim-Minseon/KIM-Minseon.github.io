@@ -30,15 +30,15 @@ disqus_shortname:   minseonkim
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            scholar.google.com/citations?user=ZwObZNwAAAAJ&hl=ko
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 email:              minseonkim@kaist.ac.kr
-twitter:            kim__minseon
+#twitter:            kim__minseon
 #facebook:           username
 github-url:         kim-minseon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
