@@ -19,7 +19,7 @@ Bio and Brain Engineering & School of Computer Science, Korea Advanced Institute
 
 ## Publish
 * Minseon Kim, Jihoon Tack, Jinwoo Shin, Sung Ju Hwang, Entropy weighted adversarial training, ICML AdvML workshop (2021) <a href="https://openreview.net/pdf?id=VLdqHdp4j1H">PDF</a> <a href="https://github.com/Kim-Minseon/EWAT">Code</a>
-* Jihoon Tack, Sihyun Yu, Jongheon Jeong, Minseon Kim, Sung Ju Hwang, Jinwoo Shin, Consistency Regularization for Adversarial Robustness, ICML AdvML workshop (2021) <a href="https://arxiv.org/abs/2103.04623">PDF</a> <a href="https://github.com/alinlab/consistency-adversarial">Code</a>
+* Jihoon Tack, Sihyun Yu, Jongheon Jeong, Minseon Kim, Sung Ju Hwang, Jinwoo Shin, Consistency Regularization for Adversarial Robustness, ICML AdvML workshop Oral presentation (2021) <a href="https://arxiv.org/abs/2103.04623">PDF</a> <a href="https://github.com/alinlab/consistency-adversarial">Code</a>
 * Francesca Inglese\*, Minseon Kim\* et al., MRI-based classification of neuropsychiatric systemic lupus erythematosus patients with self-supervised contrastive learning, medRxiv (2021) <a href="https://www.medrxiv.org/content/10.1101/2021.04.16.21255634v1">PDF</a> (*equal contribution)
 * Minseon Kim, Jihoon Tack, Sungju Hwang, Adversarial Self-Supervised Contrastive Learning, NeurIPS (2020) <a href="https://arxiv.org/abs/2006.07589">PDF</a> <a href="https://github.com/Kim-Minseon/RoCL-Adversarial-self-supervised-contrastive-learning">Code</a>
 * Deokyun Kim\*, Minseon Kim\*, Gihyun Kwon\*, Daeshik Kim, Progressive Face Super-Resolution via Attention to Facial Landmark, BMVC (2019) <a href="https://arxiv.org/abs/1908.08239">PDF</a> <a href="https://github.com/DeokyunKim/Progressive-Face-Super-Resolution">Code</a> (*equal contribution)
